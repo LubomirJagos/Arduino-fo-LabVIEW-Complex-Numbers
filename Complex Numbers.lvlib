@@ -4,22 +4,25 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">335577088</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
-	<Item Name="ClassInfo" Type="Folder">
-		<Item Name="ClassName" Type="Variable">
-			<Property Name="featurePacks" Type="Str">Global</Property>
-			<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
-			<Property Name="Network:UseBinding" Type="Str">False</Property>
-			<Property Name="Network:UseBuffering" Type="Str">False</Property>
-			<Property Name="numTypedefs" Type="UInt">0</Property>
-			<Property Name="type" Type="Str">Global</Property>
-			<Property Name="typeDesc" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"1!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
+	<Item Name="TranslatorBooster" Type="Folder">
+		<Item Name="ClassInfo" Type="Folder">
+			<Item Name="ClassName" Type="Variable">
+				<Property Name="featurePacks" Type="Str">Global</Property>
+				<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
+				<Property Name="Network:UseBinding" Type="Str">False</Property>
+				<Property Name="Network:UseBuffering" Type="Str">False</Property>
+				<Property Name="numTypedefs" Type="UInt">0</Property>
+				<Property Name="type" Type="Str">Global</Property>
+				<Property Name="typeDesc" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"1!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
+			</Item>
 		</Item>
+		<Item Name="Translator.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Translator.vi"/>
+		<Item Name="TranslatorBooster Create Input Terminal.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/TranslatorBooster Create Input Terminal.vi"/>
+		<Item Name="TranslatorBooster Search Tokens.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/TranslatorBooster Search Tokens.vi"/>
+		<Item Name="TranslatorBooster String Trim.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/TranslatorBooster String Trim.vi"/>
+		<Item Name="TranslatorBooster.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/TranslatorBooster.vi"/>
 	</Item>
 	<Item Name="Complex Number Add.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Complex Number Add.vi"/>
 	<Item Name="Complex Number To String.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Complex Number To String.vi"/>
 	<Item Name="Create Complex Number.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Create Complex Number.vi"/>
-	<Item Name="Translator.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Translator.vi"/>
-	<Item Name="TranslatorBooster Search Tokens.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/TranslatorBooster Search Tokens.vi"/>
-	<Item Name="TranslatorBooster String Trim.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/TranslatorBooster String Trim.vi"/>
-	<Item Name="TranslatorBooster.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/TranslatorBooster.vi"/>
 </Library>

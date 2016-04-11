@@ -1,6 +1,6 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="14008000">
-	<Property Name="varPersistentID:{4A5B4927-11BA-483B-8285-172014D90E4F}" Type="Ref">/My Computer/Complex Numbers.lvlib/ClassInfo/ClassName</Property>
+	<Property Name="varPersistentID:{D36A61ED-C2E2-49CF-A120-CF679AC831B6}" Type="Ref">/My Computer/Complex Numbers.lvlib/TranslatorBooster/ClassInfo/ClassName</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
@@ -26,6 +26,7 @@
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Arduino Compatible Compiler for LabVIEW.lvlib" Type="Library" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/Arduino Compatible Compiler for LabVIEW.lvlib"/>
 				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
+				<Item Name="LVPointTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVPointTypeDef.ctl"/>
 			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
