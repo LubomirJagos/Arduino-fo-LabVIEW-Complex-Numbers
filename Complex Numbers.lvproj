@@ -22,6 +22,7 @@
 			<Item Name="Test Print Complex Numbers To Serial.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Advanced Tests/Test Print Complex Numbers To Serial.vi"/>
 		</Item>
 		<Item Name="Complex Numbers.lvlib" Type="Library" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Complex Numbers.lvlib"/>
+		<Item Name="TranslatorBooster Template Blank.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/TranslatorBooster Template Blank.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Arduino Compatible Compiler for LabVIEW.lvlib" Type="Library" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/Arduino Compatible Compiler for LabVIEW.lvlib"/>
