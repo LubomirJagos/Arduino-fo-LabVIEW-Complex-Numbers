@@ -16,8 +16,9 @@
 				<Property Name="typeDesc" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"1!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
 			</Item>
 		</Item>
-		<Item Name="Translator.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Translator.vi"/>
 		<Item Name="TranslatorBooster Create Input Terminal.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/TranslatorBooster Create Input Terminal.vi"/>
+		<Item Name="TranslatorBooster Create Output Terminal.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/TranslatorBooster Create Output Terminal.vi"/>
+		<Item Name="TranslatorBooster Create Typed Input Terminal.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/TranslatorBooster Create Typed Input Terminal.vi"/>
 		<Item Name="TranslatorBooster Search Tokens.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/TranslatorBooster Search Tokens.vi"/>
 		<Item Name="TranslatorBooster String Trim.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/TranslatorBooster String Trim.vi"/>
 		<Item Name="TranslatorBooster.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/TranslatorBooster.vi"/>
@@ -25,4 +26,5 @@
 	<Item Name="Complex Number Add.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Complex Number Add.vi"/>
 	<Item Name="Complex Number To String.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Complex Number To String.vi"/>
 	<Item Name="Create Complex Number.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Create Complex Number.vi"/>
+	<Item Name="Translator.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Translator.vi"/>
 </Library>
