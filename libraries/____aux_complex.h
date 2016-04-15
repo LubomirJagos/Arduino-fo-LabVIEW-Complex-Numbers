@@ -27,9 +27,10 @@ public:
     Complex(const double r=0, const double i=0) : re(r), im(i) {};
     Complex(const Complex &c)   : re(c.re), im(c.im) {};
 
+    double Lubo1(const String a, String b) { return im; };
+    double Luboomir2(const double a, const double b) { return im; };
+    String test1(char a, unsigned char b) { return im; };
     double imag() { return im; };
-
-    size_t printTo(Print& p) const;
 
     void polar(const double, const double);
     void set(const double r, const double i ) { re = r; im = i; };
@@ -39,6 +40,7 @@ public:
     // conjugate is the number mirrored in x-axis
     Complex conjugate() { return Complex(re,-im); };
     Complex reciprocal();
+    size_t printTo(Print& p) const;
 
     bool operator == (const Complex&);
     bool operator != (const Complex&);
