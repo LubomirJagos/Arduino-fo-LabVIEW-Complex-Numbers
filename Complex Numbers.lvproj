@@ -1,7 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="14008000">
-	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
-	<Property Name="NI.Project.Description" Type="Str"></Property>
 	<Property Name="varPersistentID:{3036267C-8847-4DA0-95D6-DA61D323B393}" Type="Ref">/My Computer/Complex Numbers.lvlib/TranslatorBooster/ClassInfo/ClassName</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="NI.SortType" Type="Int">3</Property>
