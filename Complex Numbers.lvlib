@@ -4,6 +4,37 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">335577088</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Item Name="generated VIs" Type="Folder">
+		<Item Name="c_acos.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/generated VIs/c_acos.vi"/>
+		<Item Name="c_acsc.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/generated VIs/c_acsc.vi"/>
+		<Item Name="c_asec.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/generated VIs/c_asec.vi"/>
+		<Item Name="c_asin.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/generated VIs/c_asin.vi"/>
+		<Item Name="c_atan.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/generated VIs/c_atan.vi"/>
+		<Item Name="c_cos.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/generated VIs/c_cos.vi"/>
+		<Item Name="c_cot.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/generated VIs/c_cot.vi"/>
+		<Item Name="c_csc.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/generated VIs/c_csc.vi"/>
+		<Item Name="c_exp.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/generated VIs/c_exp.vi"/>
+		<Item Name="c_log.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/generated VIs/c_log.vi"/>
+		<Item Name="c_log10.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/generated VIs/c_log10.vi"/>
+		<Item Name="c_logn.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/generated VIs/c_logn.vi"/>
+		<Item Name="c_pow.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/generated VIs/c_pow.vi"/>
+		<Item Name="c_sec.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/generated VIs/c_sec.vi"/>
+		<Item Name="c_sin.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/generated VIs/c_sin.vi"/>
+		<Item Name="c_sqr.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/generated VIs/c_sqr.vi"/>
+		<Item Name="c_sqrt.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/generated VIs/c_sqrt.vi"/>
+		<Item Name="c_tan.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/generated VIs/c_tan.vi"/>
+		<Item Name="conjugate.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/generated VIs/conjugate.vi"/>
+		<Item Name="funcPrototypes.txt" Type="Document" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/generated VIs/funcPrototypes.txt"/>
+		<Item Name="imag.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/generated VIs/imag.vi"/>
+		<Item Name="modulus.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/generated VIs/modulus.vi"/>
+		<Item Name="phase.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/generated VIs/phase.vi"/>
+		<Item Name="real.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/generated VIs/real.vi"/>
+		<Item Name="reciprocal.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/generated VIs/reciprocal.vi"/>
+		<Item Name="test1.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/generated VIs/test1.vi"/>
+		<Item Name="test2.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/generated VIs/test2.vi"/>
+		<Item Name="test3.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/generated VIs/test3.vi"/>
+		<Item Name="To.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/generated VIs/To.vi"/>
+	</Item>
 	<Item Name="TranslatorBooster" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Item Name="ClassInfo" Type="Folder">
@@ -30,7 +61,7 @@
 		<Item Name="TranslatorBooster Reference Type.ctl" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/TranslatorBooster Reference Type.ctl"/>
 		<Item Name="TranslatorBooster Search Tokens.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/TranslatorBooster Search Tokens.vi"/>
 		<Item Name="TranslatorBooster String Trim.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/TranslatorBooster String Trim.vi"/>
-		<Item Name="TranslatorBoosterTranslator.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/TranslatorBoosterTranslator.vi"/>
+		<Item Name="TranslatorBooster Translator.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/TranslatorBooster Translator.vi"/>
 		<Item Name="TranslatorBooster.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/TranslatorBooster.vi"/>
 	</Item>
 	<Item Name="Complex Number Add.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Complex Number Add.vi"/>
