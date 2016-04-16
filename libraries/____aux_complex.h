@@ -27,14 +27,15 @@ public:
     Complex(const double r=0, const double i=0) : re(r), im(i) {};
     Complex(const Complex &c)   : re(c.re), im(c.im) {};
 
-    double Lubo1(const String a, String b) { return im; };
-    double Luboomir2(const double a, const double b) { return im; };
-    String test1(char a, unsigned char b) { return im; };
+    void polar(const double, const double);
+
+    String test1(IPAdrress a, unsigned MacAddr *nejakaMacZeVraj) { return im; };
+    String test2(char a, unsigned char* mojaPomocna) { return im; };
+    String test3(char *a, unsigned long b) { return im; };
     double imag() { return im; };
 
-    void polar(const double, const double);
-    void set(const double r, const double i ) { re = r; im = i; };
-    double real() { return re; };
+    void set(const double* r, const double *i ) { re = r; im = i; };
+    double real() { return &re; };
     double phase()      { return atan2(im, re); };
     double modulus()    { return hypot(re, im); };
     // conjugate is the number mirrored in x-axis

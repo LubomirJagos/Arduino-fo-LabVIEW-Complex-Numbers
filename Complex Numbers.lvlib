@@ -5,6 +5,7 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Item Name="TranslatorBooster" Type="Folder">
+		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Item Name="ClassInfo" Type="Folder">
 			<Item Name="ClassName" Type="Variable">
 				<Property Name="featurePacks" Type="Str">Global</Property>
@@ -24,9 +25,12 @@
 		<Item Name="TranslatorBooster Check if Variable Name.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/TranslatorBooster Check if Variable Name.vi"/>
 		<Item Name="TranslatorBooster Create Typed Input Terminal.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/TranslatorBooster Create Typed Input Terminal.vi"/>
 		<Item Name="TranslatorBooster Create Typed Output Terminal.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/TranslatorBooster Create Typed Output Terminal.vi"/>
+		<Item Name="TranslatorBooster Is Specifier DataType.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/TranslatorBooster Is Specifier DataType.vi"/>
 		<Item Name="TranslatorBooster Is String Datatype.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/TranslatorBooster Is String Datatype.vi"/>
+		<Item Name="TranslatorBooster Reference Type.ctl" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/TranslatorBooster Reference Type.ctl"/>
 		<Item Name="TranslatorBooster Search Tokens.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/TranslatorBooster Search Tokens.vi"/>
 		<Item Name="TranslatorBooster String Trim.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/TranslatorBooster String Trim.vi"/>
+		<Item Name="TranslatorBoosterTranslator.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/TranslatorBoosterTranslator.vi"/>
 		<Item Name="TranslatorBooster.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/TranslatorBooster.vi"/>
 	</Item>
 	<Item Name="Complex Number Add.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Complex Number Add.vi"/>
