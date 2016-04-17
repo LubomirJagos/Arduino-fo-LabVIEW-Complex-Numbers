@@ -16,9 +16,13 @@
 			<Item Name="Test Create Complex Number.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Test/Test Create Complex Number.vi"/>
 			<Item Name="Test Write Complex Number To Serial.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Test/Test Write Complex Number To Serial.vi"/>
 			<Item Name="Test Complex Number Add.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Test/Test Complex Number Add.vi"/>
+			<Item Name="Test Multiply.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Test/Test Multiply.vi"/>
+			<Item Name="Test Sqrt Sqrt.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Test/Test Sqrt Sqrt.vi"/>
 		</Item>
 		<Item Name="Advanced Tests" Type="Folder">
 			<Item Name="Test Print Complex Numbers To Serial.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Advanced Tests/Test Print Complex Numbers To Serial.vi"/>
+			<Item Name="Test Basic Operations.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Advanced Tests/Test Basic Operations.vi"/>
+			<Item Name="Test Basic Operations Sin Cos.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Advanced Tests/Test Basic Operations Sin Cos.vi"/>
 		</Item>
 		<Item Name="Complex Numbers.lvlib" Type="Library" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Complex Numbers.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">

@@ -5,7 +5,26 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Item Name="Add.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Add.vi"/>
+	<Item Name="Arccos.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Arccos.vi"/>
+	<Item Name="Arcsin.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Arcsin.vi"/>
+	<Item Name="Arctan.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Arctan.vi"/>
 	<Item Name="Complex Number To String.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Complex Number To String.vi"/>
+	<Item Name="Cos.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Cos.vi"/>
 	<Item Name="Create Complex Number.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Create Complex Number.vi"/>
+	<Item Name="Delete.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Delete.vi"/>
+	<Item Name="Divide.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Divide.vi"/>
+	<Item Name="Exp.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Exp.vi"/>
+	<Item Name="IsEqual.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/IsEqual.vi"/>
+	<Item Name="IsNotEqual.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/IsNotEqual.vi"/>
+	<Item Name="Log.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Log.vi"/>
+	<Item Name="Log10.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Log10.vi"/>
+	<Item Name="LogN.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/LogN.vi"/>
+	<Item Name="Multiply.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Multiply.vi"/>
+	<Item Name="Pow.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Pow.vi"/>
+	<Item Name="Sin.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Sin.vi"/>
+	<Item Name="Sqr.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Sqr.vi"/>
+	<Item Name="Sqrt.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Sqrt.vi"/>
+	<Item Name="Subtract.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Subtract.vi"/>
+	<Item Name="Tan.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Tan.vi"/>
 	<Item Name="Translator.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Translator.vi"/>
 </Library>
