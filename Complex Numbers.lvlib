@@ -4,7 +4,7 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">335577088</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
-	<Item Name="Complex Number Add.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Complex Number Add.vi"/>
+	<Item Name="Add.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Add.vi"/>
 	<Item Name="Complex Number To String.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Complex Number To String.vi"/>
 	<Item Name="Create Complex Number.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Create Complex Number.vi"/>
 	<Item Name="Translator.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Translator.vi"/>
