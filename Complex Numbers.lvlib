@@ -4,6 +4,15 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">335577088</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Property Name="NI.SortType" Type="Int">3</Property>
+	<Item Name="Advanced Tests" Type="Folder">
+		<Item Name="Test Print Complex Numbers To Serial.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Advanced Tests/Test Print Complex Numbers To Serial.vi"/>
+		<Item Name="Test Non wired error.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Advanced Tests/Test Non wired error.vi"/>
+		<Item Name="Test Basic Operations.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Advanced Tests/Test Basic Operations.vi"/>
+		<Item Name="Test Basic Operations Sin Cos.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Advanced Tests/Test Basic Operations Sin Cos.vi"/>
+		<Item Name="Test Basic Operations 2.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Advanced Tests/Test Basic Operations 2.vi"/>
+		<Item Name="Test Basic Operations 3.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Advanced Tests/Test Basic Operations 3.vi"/>
+	</Item>
 	<Item Name="Acos.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Acos.vi"/>
 	<Item Name="Acosh.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Acosh.vi"/>
 	<Item Name="Acot.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Acot.vi"/>
